@@ -1,0 +1,15 @@
+.elements {
+  height: 457px;
+  width: 250px;
+  border: 1px solid black;
+  gap: 23px;
+  font-size: 16px;
+}
+
+.heading-buttons {
+  width: fixed(220px);
+  height: Hug(44px);
+  gap: 10px;
+  display: flex;
+  justify-content: space-between;
+}
